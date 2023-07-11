@@ -2,9 +2,13 @@
 
 ## Welcome to our store! 🛒😃
 
+## Different languages 
+- [Change to Swedish](e-commerce-se.md)
+- [Change to German](e-commerce-de.md)
+
 ### Product Categories
 
-- [ ] Electronics 📱💻🎮
+- [x] Electronics 📱💻🎮
 - [ ] Fashion 👗👔👠
 - [ ] Home & Kitchen 🏠🍴🛋️
 
