@@ -5,7 +5,7 @@
 ## Different languages 
 - [Change to Swedish](e-commerce-se.md)
 - [Change to German](e-commerce-de.md)
-
+- [Change to Italian](e-commerce-it.md)
 ### Product Categories
 
 - [x] Electronics 📱💻🎮
