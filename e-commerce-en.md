@@ -1,6 +1,6 @@
 # E-commerce Website
 
-## Välkommen till våran hemsida! 🛒😃
+## Välkommen till vår butik 🛒😃
 
 ### Produkter
 
