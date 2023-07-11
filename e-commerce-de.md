@@ -3,9 +3,9 @@
 ## Willkommen in unserem Geschäft! 🛒😃
 
 ## Verschiedene Sprachen
-- [Change to English](e-commerce-en.md)
-- [Change to German](e-commerce-se.md)
-
+- [Wechseln Sie zu Deutsch](e-commerce-en.md)
+- [Wechseln Sie zu Schwedisch](e-commerce-se.md)
+- [Wechseln Sie zu ]
 ### Produktkategorien.
 
 - [x] Elektronik 📱💻🎮

@@ -3,8 +3,9 @@
 ## Välkommen till vår butik 🛒😃
 
 ## Olika språk
-- [Change to English](e-commerce-en.md)
-- [Change to German](e-commerce-se.md)
+- [Byt till Engelska](e-commerce-en.md)
+- [Byt till Tyska](e-commerce-de.md)
+- [Byt till Italienska](e-commerce-it.md)
 ## 
 
 ### Produkter
