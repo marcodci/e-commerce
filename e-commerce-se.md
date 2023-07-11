@@ -6,7 +6,7 @@
 
 ### Produkter
 
-- [ ] Elektronik 📱💻🎮
+- [x] Elektronik 📱💻🎮
 - [ ] Mode 👗👔👠
 - [ ] Hem & Kök 🏠🍴🛋️
 

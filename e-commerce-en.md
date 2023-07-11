@@ -6,7 +6,7 @@
 
 ### Product Categories
 
-- [ ] Electronics 📱💻🎮
+- [x] Electronics 📱💻🎮
 - [ ] Fashion 👗👔👠
 - [ ] Home & Kitchen 🏠🍴🛋️
 
