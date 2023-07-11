@@ -2,6 +2,10 @@
 
 ## Willkommen in unserem Geschäft! 🛒😃
 
+## Verschiedene Sprachen
+- [Change to English](e-commerce-en.md)
+- [Change to German](e-commerce-se.md)
+
 ### Produktkategorien.
 
 - [x] Elektronik 📱💻🎮

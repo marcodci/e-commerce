@@ -2,7 +2,9 @@
 
 ## Welcome to our store! 🛒😃
 
-## [Change to Swedish](e-commerce-se.md)
+## Different languages 
+- [Change to Swedish](e-commerce-se.md)
+- [Change to German](e-commerce-de.md)
 
 ### Product Categories
 
