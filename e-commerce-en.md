@@ -4,9 +4,9 @@
 
 ### Produkter
 
-- [ ] Electronics 📱💻🎮
-- [ ] Fashion 👗👔👠
-- [ ] Home & Kitchen 🏠🍴🛋️
+- [ ] Elektronik 📱💻🎮
+- [ ] Mode 👗👔👠
+- [ ] Hem & Kök 🏠🍴🛋️
 
 ### Utvalda produkter
 
