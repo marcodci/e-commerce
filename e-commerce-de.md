@@ -4,7 +4,7 @@
 
 ### Produktkategorien.
 
-- [ ] Elektronik 📱💻🎮
+- [x] Elektronik 📱💻🎮
 - [ ] Mode 👗👔👠
 - [ ] Haus & Küche 🏠🍴🛋️
 
